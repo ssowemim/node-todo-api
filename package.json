@@ -9,6 +9,7 @@
   "author": "Femi Sowemimo",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.11"
+    "mongodb": "^2.2.11",
+    "mongoose": "^4.6.6"
   }
 }
